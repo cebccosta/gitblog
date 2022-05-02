@@ -1,0 +1,202 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	width:100%;
+	margin: 0 auto;
+	min-width:600px;
+	max-width:2000px
+
+
+}
+
+header {
+	padding: 1px 0;
+
+}
+
+#git-logo {
+			
+	width: 10%;
+			
+
+}
+
+nav {
+	position: absolute;
+	top: 130px;
+	right: 10px;
+
+
+}
+nav li {
+	display: inline;
+	
+	
+}
+
+nav a {
+
+	color: #000000;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: none;
+	line-height: 2;
+	margin-right: 40px;
+
+}
+
+nav a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+.img1 {
+	width: 50%;
+	float: left;
+	margin: 0 20px 10px 0;
+	border-radius: 5px;
+
+
+
+}
+.img1:hover {
+	transform: scale(1.1);
+
+}
+
+
+.img2 {
+	width: 12%;
+	float: left;
+	margin: 0 120px 20px 25px;
+	border-radius: 5px;
+
+
+}
+
+.img2:hover {
+	transform: scale(1.1);
+
+}
+
+.img3 {
+	width: 12%;
+	float: left;
+	margin: 0 120px 20px 25px;
+	border-radius: 5px;
+
+}
+
+.img3:hover {
+	transform: scale(1.1);
+
+}
+
+table {
+	line-height: 1;
+
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 15px;
+	color: #FF34B3;
+	font-weight: bold;
+
+
+}
+
+h1:hover {
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+
+h2 {
+	font-weight: bold;
+	font-size: 20px;
+	
+
+}
+
+h2:hover {
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+
+tfoot:hover {
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.engineering {
+  
+   margin: 1em 150px 30px 710px;
+   width: 60%;
+   
+}
+
+.engineering h3 {
+	margin-right: 155px;
+	 text-align: justify;
+
+}
+
+.img4 {
+	width: 20%;
+	float: left;
+	margin: 0 120px 30px auto;
+	border-radius: 5px;
+	
+
+}
+
+.img4:hover {
+	transform: scale(1.1);
+}
+
+table {
+	line-height: 1;
+}
+
+.product2 {
+	width: 600px;
+	margin: -210px 0 150px 0;
+	float: left;
+	
+}
+
+.product2 h1{
+	font-size: 20px;
+
+}
+
+.product2 h2{
+	font-size: 40px;
+	font-weight: bold;
+	width: 600px;
+	margin: 20px 0 10px 0;
+}
+
+.product2 h3{
+	font-size: 15px;
+	width: 700px;
+	margin: 0 0 320px 0px;
+}
+
+.product2 h4{
+	font-size: 15px;
+	width: 600px;
+	margin: -290px 200px 100px 0;
+}
+.imgjh {
+	width: 10%;
+	border-radius: 50%;
+	float: auto;
+	clear: auto;
+}	
+
+
+
+
+
